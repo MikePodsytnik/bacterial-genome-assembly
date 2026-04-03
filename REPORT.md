@@ -187,7 +187,7 @@ L75                         2
 ## Шаг 6. Поиск резистентности
 
 [Статья о метициллинрезистентном золотистом стафилококке в Википедии](https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus)  
-[Статья о мобильном генетическом элементе *SCCmec* в Википедии](https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus)
+[Статья о мобильном генетическом элементе *SCCmec* в Википедии](https://en.wikipedia.org/wiki/SCCmec)
 
 Гены, которые могут вызвать устойчивость к антибиотикам - это прежде всего *mecA*, но могут также встретиться регуляторные гены *mecI* и *mecR1* или ген *psm-mec* (и некоторые другие).
 

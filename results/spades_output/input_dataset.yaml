@@ -1,0 +1,6 @@
+- "left reads":
+  - "/home/user/mutant_R1.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/home/user/mutant_R2.fastq.gz"
+  "type": "paired-end"

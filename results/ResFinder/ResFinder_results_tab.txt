@@ -1,0 +1,4 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aadD	100.00	762/762	100.0	1..762	NODE_4_length_4708_cov_19.958324	218..979	Amikacin, Tobramycin	M19465
+mecA	100.00	2007/2007	100.0	1..2007	NODE_1_length_132140_cov_9.694812	127897..129903	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	BX571856
+bleO	100.00	399/399	100.0	1..399	NODE_4_length_4708_cov_19.958324	1202..1600	Bleomycin	AF051917

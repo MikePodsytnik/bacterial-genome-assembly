@@ -1,0 +1,8 @@
+- "left reads":
+  - "/home/user/spades_output/corrected/mutant_R1.fastq.00.0_0.cor.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/home/user/spades_output/corrected/mutant_R2.fastq.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/home/user/spades_output/corrected/mutant_R_unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"

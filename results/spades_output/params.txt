@@ -1,0 +1,36 @@
+Command line: /home/user/miniconda3/envs/assembly_env/bin/spades.py	-1	/home/user/mutant_R1.fastq.gz	-2	/home/user/mutant_R2.fastq.gz	-o	/home/user/spades_output	
+
+System information:
+  SPAdes version: 3.13.1
+  Python version: 3.6.13
+  OS: Linux-6.8.0-87-generic-x86_64-with-debian-trixie-sid
+
+Output dir: /home/user/spades_output
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/user/mutant_R1.fastq.gz']
+      right reads: ['/home/user/mutant_R2.fastq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/user/spades_output/tmp
+  Threads: 16
+  Memory limit (in Gb): 15
+

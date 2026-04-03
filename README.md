@@ -27,3 +27,4 @@
 - [SPAdes](https://github.com/ablab/spades)
 - [QUAST](https://github.com/ablab/quast)
 - [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+- [ResFinder](https://genepi.food.dtu.dk/resfinder)

@@ -27,7 +27,7 @@ fastqc ./data/mutant_R1.fastq.gz ./data/mutant_R2.fastq.gz -o ./data/fastqc
 
 ![FastQC R1](./screenshots/fastqc_R1.png)
 
-![FastQC R1](./screenshots/fastqc_R2.png)
+![FastQC R2](./screenshots/fastqc_R2.png)
 
 Как мы видим, данные в целом хорошие (per sequence quality score`ы в целом больше 30, распределение GC (пар вида цитозин-гуанин) близко к теоретическому, адаптеры практически отсутствуют), однако во втором файле на boxplot'ax заметно некоторое отклонение от зелёной зоны на первых и последних позициях.
 
